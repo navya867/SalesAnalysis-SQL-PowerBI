@@ -20,5 +20,4 @@ In the initial data preparation phase, we performed the following task
 
 - Performence_Insights
  
-![Screenshot 2023-11-25 225156](https://github.com/navya867/SalesAnalysis-SQL-PowerBI/assets/89930278/e5a3cf5a-6950-4e6f-9e74-40ed3697399f)
-
+![Screenshot 2023-11-25 230052](https://github.com/navya867/SalesAnalysis-SQL-PowerBI/assets/89930278/582846e8-e3ee-4859-8c9c-1150c0ae7387)
